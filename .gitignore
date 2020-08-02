@@ -1,2 +1,4 @@
 media
 settings.py
+*.txt
+db.sqlite3
